@@ -18,6 +18,7 @@ class MapPage extends React.Component {
                 <div className="row">
                     
                     <div className="col-sm-12 text-center">
+                        <a href="/">Home</a>
                         <h1 className="page-header">Map</h1>
                         <div>
                             <div id="map"></div>
