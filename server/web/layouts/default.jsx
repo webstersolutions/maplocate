@@ -42,6 +42,7 @@ class DefaultLayout extends React.Component {
                             <ul className="links">
                                 <li><a href="/">Home</a></li>
                                 <li><a href="/contact">Contact</a></li>
+                                <li><a href="/map">Map</a></li>
                             </ul>
                             <div className="clearfix"></div>
                         </div>
