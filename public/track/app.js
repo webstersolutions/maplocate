@@ -222,8 +222,7 @@ function pushCurrentStatus() {
     coords: {
       latitude: currentCoords.latitude,
       longitude: currentCoords.longitude,
-    },
-    user: req.user.username,
+    },    
     orientation: currentOrientation,
     timestamp: now()
   })
