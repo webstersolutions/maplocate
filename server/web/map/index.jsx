@@ -11,7 +11,7 @@ class MapPage extends React.Component {
 
         return (
             <Layout
-                title="Map 2"
+                title="Map 3"
                 feet={feet}
                 activeTab="map">
 
