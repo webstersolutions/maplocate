@@ -27,7 +27,7 @@
     "escape-string-regexp": "1.x.x",
     "glue": "4.x.x",
     "handlebars": "4.x.x",
-    "hapi": "15.x.x",
+    "hapi": "16.1.1",
     "hapi-auth-cookie": "6.x.x",
     "hapi-mongo-models": "6.x.x",
     "hapi-react-views": "9.x.x",
