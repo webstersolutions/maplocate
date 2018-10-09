@@ -70,7 +70,7 @@
     "gulp-util": "3.x.x",
     "jsdom": "9.x.x",
     "lab": "11.x.x",
-    "lodash": "4.x.x",
+    "lodash": "4.17.5",
     "merge-stream": "1.x.x",
     "moment": "2.19.3",
     "nodemon": "1.x.x",
