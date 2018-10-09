@@ -72,7 +72,7 @@
     "lab": "11.x.x",
     "lodash": "4.x.x",
     "merge-stream": "1.x.x",
-    "moment": "2.15.x",
+    "moment": "2.19.3",
     "nodemon": "1.x.x",
     "promptly": "2.x.x",
     "proxyquire": "1.x.x",
