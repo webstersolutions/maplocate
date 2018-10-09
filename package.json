@@ -31,7 +31,7 @@
     "hapi-auth-cookie": "6.x.x",
     "hapi-mongo-models": "6.x.x",
     "hapi-react-views": "9.x.x",
-    "hoek": "4.x.x",
+    "hoek": "4.2.1",
     "inert": "4.x.x",
     "joi": "9.x.x",
     "mongo-models": "1.x.x",
